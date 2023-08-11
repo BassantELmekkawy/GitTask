@@ -13,6 +13,7 @@
 		9E3A63CA2A86217A00D2F22C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E3A63C82A86217A00D2F22C /* Main.storyboard */; };
 		9E3A63CC2A86217E00D2F22C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E3A63CB2A86217E00D2F22C /* Assets.xcassets */; };
 		9E3A63CF2A86217E00D2F22C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E3A63CD2A86217E00D2F22C /* LaunchScreen.storyboard */; };
+		9E3A63D72A86246A00D2F22C /* bassant.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E3A63D62A86246A00D2F22C /* bassant.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9E3A63CB2A86217E00D2F22C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E3A63CE2A86217E00D2F22C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E3A63D02A86217E00D2F22C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E3A63D62A86246A00D2F22C /* bassant.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = bassant.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9E3A63CB2A86217E00D2F22C /* Assets.xcassets */,
 				9E3A63CD2A86217E00D2F22C /* LaunchScreen.storyboard */,
 				9E3A63D02A86217E00D2F22C /* Info.plist */,
+				9E3A63D62A86246A00D2F22C /* bassant.storyboard */,
 			);
 			path = GitTask;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E3A63CF2A86217E00D2F22C /* LaunchScreen.storyboard in Resources */,
+				9E3A63D72A86246A00D2F22C /* bassant.storyboard in Resources */,
 				9E3A63CC2A86217E00D2F22C /* Assets.xcassets in Resources */,
 				9E3A63CA2A86217A00D2F22C /* Main.storyboard in Resources */,
 			);
