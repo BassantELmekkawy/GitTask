@@ -90,3 +90,5 @@ fastlane/test_output
 
 iOSInjectionProject/
 .DS_Store
+GitTask/.DS_Store
+GitTask/GitTask.xcodeproj/project.xcworkspace/xcuserdata/ahlam.xcuserdatad/UserInterfaceState.xcuserstate
