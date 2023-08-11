@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C4FCF612A862300005BAD80 /* AhlamStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C4FCF602A862300005BAD80 /* AhlamStoryboard.storyboard */; };
 		9E3A63C32A86217A00D2F22C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3A63C22A86217A00D2F22C /* AppDelegate.swift */; };
 		9E3A63C52A86217A00D2F22C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3A63C42A86217A00D2F22C /* SceneDelegate.swift */; };
 		9E3A63C72A86217A00D2F22C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3A63C62A86217A00D2F22C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C4FCF602A862300005BAD80 /* AhlamStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AhlamStoryboard.storyboard; sourceTree = "<group>"; };
 		9E3A63BF2A86217A00D2F22C /* GitTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E3A63C22A86217A00D2F22C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9E3A63C42A86217A00D2F22C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				9E3A63CB2A86217E00D2F22C /* Assets.xcassets */,
 				9E3A63CD2A86217E00D2F22C /* LaunchScreen.storyboard */,
 				9E3A63D02A86217E00D2F22C /* Info.plist */,
+				0C4FCF602A862300005BAD80 /* AhlamStoryboard.storyboard */,
 			);
 			path = GitTask;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E3A63CF2A86217E00D2F22C /* LaunchScreen.storyboard in Resources */,
+				0C4FCF612A862300005BAD80 /* AhlamStoryboard.storyboard in Resources */,
 				9E3A63CC2A86217E00D2F22C /* Assets.xcassets in Resources */,
 				9E3A63CA2A86217A00D2F22C /* Main.storyboard in Resources */,
 			);
